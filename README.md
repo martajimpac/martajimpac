@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Marta
-- :technologist: 
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :technologist: I'm studing computer engineering
+- 👀 I’m interested in software development.
+- 📫 martajimpac@gmail.com
