@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Marta
 - :technologist: I'm studing computer engineering
-- 👀 I’m interested in software development. I'm currently working in developing Android apps.
+- 👀 I’m interested in software development. 
+- :iphone: I'm currently working in developing Android apps.
 - 📫 martajimpac@gmail.com
