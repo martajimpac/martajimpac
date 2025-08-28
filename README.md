@@ -1,9 +1,9 @@
-👋 Hi, I'm Marta  
+👋 Hola, soy Marta  
 
-💻 Computer Engineering graduate & Android Developer passionate about building **native, user-centric applications**.  
-📱 Experienced with Kotlin and the Android ecosystem, currently **deepening my skills in Jetpack Compose** to design modern and dynamic UIs.  
-🔥 Strong interest in creating **scalable, maintainable code** and delivering seamless user experiences.  
+💻 Graduada en Ingeniería Informática y desarrolladora Android, apasionada por crear **aplicaciones nativas centradas en el usuario**.  
+📱 Con experiencia en Kotlin y en el ecosistema Android, actualmente estoy **profundizando en Jetpack Compose** para diseñar interfaces modernas y dinámicas.  
+🔥 Me interesa especialmente desarrollar **código escalable y mantenible**, así como ofrecer experiencias de usuario fluidas y de calidad.  
 
-🚀 Always eager to learn new technologies and collaborate on impactful projects.  
+🚀 Siempre con ganas de aprender nuevas tecnologías y colaborar en proyectos con impacto.  
 
-📫 Reach me at: **martajimpac@gmail.com**
+📫 Puedes contactarme en: **martajimpac@gmail.com**
